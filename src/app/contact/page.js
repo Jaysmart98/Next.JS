@@ -10,8 +10,9 @@ const page = () => {
 
         <div>
           This contact page is under construction. Please check back later for updates.
+          Something delicious is coming, stay anticipating...
         </div>
-
+ 
         <br/>
 
 
