@@ -17,7 +17,7 @@ const RandomJoke = () => {
     <div>
       <h2>Random Joke</h2>
       <p>bmxfmb xfmvhsfmbv,xvhk,fsldhkhfjvzmcb bmvjgsfv nczb mbvjgvzjvfmbbmvcz,v</p>
-      <p>{joke}</p>
+      <p className='text-4xl text-yellow-900'>{joke}</p>
     </div>
   );
 }
