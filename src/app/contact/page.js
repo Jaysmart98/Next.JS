@@ -93,7 +93,7 @@ const page = () => {
     <div class="mt-16 max-w-2xl sm:mx-auto sm:text-center">
       <a href="#" class="inline-block rounded-full bg-pretty px-4 py-2 text-base font-semibold text-white shadow-sm hover:bg-indigo-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Join us</a>
 </div>
-  </div
+  </div>
 
 </div>
 
