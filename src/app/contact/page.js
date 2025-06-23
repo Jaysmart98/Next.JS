@@ -14,7 +14,7 @@ const page = () => {
   </div>
   <div class="mx-auto max-w-2xl text-center">
     <h2 class="text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl">Contact sales</h2>
-    <p class="mt-2 text-lg/8 text-gray-600">Aute magna irure deserunt veniam aliqua magna enim voluptate.</p>
+    <p class="mt-2 text-lg/8 text-gray-600">Auto magna immediately difference venom all magnesium sim voltage.</p>
   </div>
   <form action="#" method="POST" class="mx-auto mt-16 max-w-xl sm:mt-20">
     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
@@ -82,11 +82,6 @@ const page = () => {
     </div>
   </form>
 </div>
-
-
-
-
-
 
         <div>
         </div><div class="bg-white py-24 sm:py-32">
